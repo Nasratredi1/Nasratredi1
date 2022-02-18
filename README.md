@@ -5,7 +5,7 @@
 
 # Hi there, 👋 I'm Nasrat Redi
 
-I am a **Computer Science Student** and a **Front-end Developer** Well, I am an enthusiastic learner and passionate about frontend technologies.
+I am a **Computer Science Student** and a **Front-end Developer**.  Well, I am an enthusiastic learner and passionate about frontend technologies.
 I have written plenty of post and articles related to this technologies which are published on Twitter and other platforms
 
 I used many updated tools, technologies, and techniques to solve problems. I focus on being a valuable part of any team I am on and believe in team success, growth, and team rising together.
